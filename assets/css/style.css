@@ -977,7 +977,7 @@ section {
 }
 .video .con {
   margin-auto;
-  display: flex;
+  position:absolute;
   width: 90%;
 }
 /*--------------------------------------------------------------
