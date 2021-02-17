@@ -976,9 +976,8 @@ section {
   bottom: 15px;
 }
 .video .con {
-  margin:auto;
-  position: realtive;
-  width: 90%;
+  margin-left:10vh;
+  width: 80%;
 }
 /*--------------------------------------------------------------
 # Contact
